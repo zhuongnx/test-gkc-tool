@@ -1,0 +1,9 @@
+versions: 1.0
+folder_path: .
+language:
+  - php
+hash_code_prefix: "gkc_hash_code: "
+hash_code: lookAtMeNow
+ignore_file_extensions:
+  - .scss
+  - .css
